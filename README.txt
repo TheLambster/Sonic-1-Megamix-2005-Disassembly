@@ -5,3 +5,5 @@ There are some differences to the original ROM to the one you build in this disa
 This disassembly is based off of the Hivebrain 2005 disassembly, because the GitHub disassembly sucks.
 
 All credit goes to anyone’s work that I used in this disassembly.
+
+I have put both all of the maps and Nemesis art in a zip file, so before you build and see that it's broken, extract those 2 zips, also, if you think the assembler is broken, it isn't, I only deleted the checksum.
